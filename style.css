@@ -1,0 +1,35 @@
+.buy-now-button{
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+.carousel-indicators .active {
+    height: 10px;
+    width: 30px;
+    background-color: #f0ed30;
+    border-radius: 70px;
+}
+
+.card{
+    box-shadow: 3px 3px 20px rgb(248, 239, 221);
+    border: none;
+}
+.catcont{
+    margin-top: 80px;
+}
+
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+} 
+
+.title-pad{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
